@@ -2,18 +2,21 @@
 
 Collaborators: Michelle Hamilton, Paul Hardy, Jarrod, and Jeremy Schoenberg
 
-### Hypothesis
+## Hypothesis
+
 Is there a correlation between investment in an NBA team and their performance in their league?
 
-### Questions
+## Questions
+
 * What contribution do high paying star players make towards the success of the team?
 * How is success of a sport team measured?
 What is the relationship between investment in a team and the number of wins by year?
 * Is there a correlation between the investment and the region in which the teams are in (Eastern Conference vs Western Conference)?
 
-### Possible Datasets
-https://data.world/datadavis/nba-salaries
+## Possible Datasets
 
-https://www.kaggle.com/nathanlauga/nba-games
+<https://data.world/datadavis/nba-salaries>
 
-https://rapidapi.com/api-sports/api/api-nba
+<https://www.kaggle.com/nathanlauga/nba-games>
+
+<https://rapidapi.com/api-sports/api/api-nba>
