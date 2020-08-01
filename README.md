@@ -1,4 +1,4 @@
-# Project-One
+# project-one
 
 Collaborators: Michelle Hamilton, Paul Hardy, Jarrod, and Jeremy Schoenberg
 
