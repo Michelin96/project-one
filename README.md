@@ -1,7 +1,5 @@
 # project-one
 
-<<<<<<< HEAD
-=======
 Collaborators: Michelle Hamilton, Paul Hardy, Jarrod, and Jeremy Schoenberg
 
 ## Hypothesis
@@ -20,4 +18,3 @@ What is the relationship between investment in a team and the number of wins by 
 <https://data.world/datadavis/nba-salaries>
 <https://www.kaggle.com/nathanlauga/nba-games>
 <https://rapidapi.com/api-sports/api/api-nba>
->>>>>>> 2b1e77c90cbf5bcc283e11500fa8c3359353fb78
