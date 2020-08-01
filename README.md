@@ -16,7 +16,5 @@ What is the relationship between investment in a team and the number of wins by 
 ## Possible Datasets
 
 <https://data.world/datadavis/nba-salaries>
-
 <https://www.kaggle.com/nathanlauga/nba-games>
-
 <https://rapidapi.com/api-sports/api/api-nba>
