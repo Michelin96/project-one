@@ -1,6 +1,6 @@
 # project-one
 
-Collaborators: Michelle Hamilton, Paul Hardy, Jarrod, and Jeremy Schoenberg
+Collaborators: Michelle Hamilton, Paul Hardy, Jeremy Schoenberg, and Jarrod Williams
 
 ## Hypothesis
 
