@@ -24,3 +24,4 @@ What is the relationship between investment in a team and the number of wins by 
 <https://data.world/datadavis/nba-salaries>
 <http://www.insidehoops.com/attendance.shtml>
 <https://www.hoopsrumors.com/?s=nba+franchise+valuations>
+<https://hoopshype.com/salaries/players/2018-2019/>
