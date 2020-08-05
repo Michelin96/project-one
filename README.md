@@ -9,7 +9,8 @@ Is there a correlation between investment in an NBA team and their performance i
 ## Questions
 
 * What contribution do high paying star players make towards the success of the team?
-* How is success of a sport team measured?
+* What contribution do high paying star players make towards fan attendance?
+* How is success of a sport team measured (plot wins)?
 What is the relationship between investment in a team and the number of wins by year?
 * Is there a correlation between the investment and the region in which the teams are in (Eastern Conference vs Western Conference)?
 
