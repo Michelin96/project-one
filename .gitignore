@@ -131,3 +131,5 @@ dmypy.json
 # Project files to ignore
 .DS_Store
 config.py
+michelle.ipynb
+*.docx, doc
