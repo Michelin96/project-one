@@ -1,4 +1,4 @@
-Player,Salary,Team,Team Code,Year 
+Player,Salary,Team,Team Code,Year
 Stephen Curry,"$37,457,154 ",Golden State Warriors,GSW,2019
 Russell Westbrook,"$35,665,000 ",Oklahoma City Thunder,OKC,2019
 LeBron James,"$35,654,150 ",Los Angeles Lakers,LAL,2019
@@ -18,7 +18,7 @@ Chris Bosh,"$26,837,720 ",Miami Heat,MIA,2019
 Jrue Holiday,"$26,641,111 ",New Orleans Pelicans,NOP,2019
 Otto Porter,"$26,011,913 ",Washington Wizards,WAS,2019
 CJ McCollum,"$25,759,766 ",Portland Trailblazers,POR,2019
-Joel Embiid,"$25,467,250 ",Phoenix Suns,PHI,2019
+Joel Embiid,"$25,467,250 ",Philadelphia 76ers,PHI,2019
 Andrew Wiggins,"$25,467,250 ",Minnesota Timberwolves,MIN,2019
 Nikola Jokic,"$25,467,250 ",Denver Nuggets,DEN,2019
 Anthony Davis,"$25,434,263 ",New Orleans Pelicans,NOP,2019
