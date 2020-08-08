@@ -1,84 +1,84 @@
-Team,Home AVG,Year
-Atlanta Hawks,17412,2015
-Boston Celtics,17594,2015
-Charlotte Hornets,17192,2015
-Chicago Bulls,21866,2015
-Dallas Mavericks,20188,2015
-Denver Nuggets,14700,2015
-Detroit Pistons,15266,2015
-Golden State Warriors,19596,2015
-Indiana Pacers,16864,2015
-Memphis Grizzlies,17329,2015
-Milwaukee Bucks,14908,2015
-Minnesota Timberwolves,14528,2015
-New Orleans Pelicans,16677,2015
-Oklahoma City Thunder,18203,2015
-Orlando Magic,16785,2015
-Philadelphia 76ers,13935,2015
-Phoenix Suns,16923,2015
-Portland Trail Blazers,19546,2015
-Sacramento Kings,16587,2015
-San Antonio Spurs,18606,2015
-Toronto Raptors,19752,2015
-Utah Jazz,18831,2015
-Washington Wizards,18239,2015
-Atlanta Hawks,16833,2016
-Boston Celtics,18270,2016
-Charlotte Hornets,17485,2016
-Dallas Mavericks,20144,2016
-Denver Nuggets,14095,2016
-Detroit Pistons,16516,2016
-Golden State Warriors,19596,2016
-Indiana Pacers,16847,2016
-Memphis Grizzlies,17119,2016
-Milwaukee Bucks,15166,2016
-Minnesota Timberwolves,14175,2016
-New Orleans Pelicans,16794,2016
-Orlando Magic,17543,2016
-Philadelphia 76ers,14881,2016
-Phoenix Suns,17107,2016
-Portland Trail Blazers,19368,2016
-Sacramento Kings,17257,2016
-San Antonio Spurs,18450,2016
-Toronto Raptors,19826,2016
-Utah Jazz,19305,2016
-Washington Wizards,17693,2016
-Atlanta Hawks,15959,2017
-Boston Celtics,18553,2017
-Charlotte Hornets,17333,2017
-Chicago Bulls,21680,2017
-Dallas Mavericks,19789,2017
-Denver Nuggets,14770,2017
-Detroit Pistons,15979,2017
-Golden State Warriors,19596,2017
-Indiana Pacers,16697,2017
-Memphis Grizzlies,16520,2017
-Milwaukee Bucks,15828,2017
-Minnesota Timberwolves,14810,2017
-New Orleans Pelicans,16173,2017
-Oklahoma City Thunder,18203,2017
-Orlando Magic,17753,2017
-Philadelphia 76ers,17331,2017
-Phoenix Suns,17284,2017
-Portland Trail Blazers,19318,2017
-Sacramento Kings,17608,2017
-San Antonio Spurs,18423,2017
-Toronto Raptors,19830,2017
-Utah Jazz,19662,2017
-Washington Wizards,17003,2017
-Atlanta Hawks,14409,2018
-Brooklyn Nets,15598,2018
-Chicago Bulls,20776,2018
-Detroit Pistons,17413,2018
-Houston Rockets,17871,2018
-Minnesota Timberwolves,17056,2018
-New York Knicks,19332,2018
-Orlando Magic,17915,2018
-Phoenix Suns,16843,2018
-Portland Trail Blazers,19398,2018
-Atlanta Hawks,15377,2019
-Brooklyn Nets,14941,2019
-New York Knicks,19002,2019
-Philadelphia 76ers,20453,2019
-Portland Trail Blazers,19496,2019
-Sacramento Kings,17097,2019
+Team,Home AVG,Road AVG,Year
+Atlanta Hawks,17412,17582,2015
+Boston Celtics,17594,17742,2015
+Charlotte Hornets,17192,17654,2015
+Chicago Bulls,21866,18405,2015
+Dallas Mavericks,20188,17653,2015
+Denver Nuggets,14700,17429,2015
+Detroit Pistons,15266,17866,2015
+Golden State Warriors,19596,18312,2015
+Indiana Pacers,16864,17893,2015
+Memphis Grizzlies,17329,18017,2015
+Milwaukee Bucks,14908,17703,2015
+Minnesota Timberwolves,14528,18001,2015
+New Orleans Pelicans,16677,17641,2015
+Oklahoma City Thunder,18203,17957,2015
+Orlando Magic,16785,17586,2015
+Philadelphia 76ers,13935,17665,2015
+Phoenix Suns,16923,17586,2015
+Portland Trail Blazers,19546,17657,2015
+Sacramento Kings,16587,17515,2015
+San Antonio Spurs,18606,17972,2015
+Toronto Raptors,19752,17523,2015
+Utah Jazz,18831,17135,2015
+Washington Wizards,18239,18253,2015
+Atlanta Hawks,16833,17611,2016
+Boston Celtics,18270,17440,2016
+Charlotte Hornets,17485,17784,2016
+Dallas Mavericks,20144,17727,2016
+Denver Nuggets,14095,17783,2016
+Detroit Pistons,16516,17814,2016
+Golden State Warriors,19596,19134,2016
+Indiana Pacers,16847,17852,2016
+Memphis Grizzlies,17119,17590,2016
+Milwaukee Bucks,15166,17623,2016
+Minnesota Timberwolves,14175,17832,2016
+New Orleans Pelicans,16794,17851,2016
+Orlando Magic,17543,17175,2016
+Philadelphia 76ers,14881,17492,2016
+Phoenix Suns,17107,17303,2016
+Portland Trail Blazers,19368,17704,2016
+Sacramento Kings,17257,17355,2016
+San Antonio Spurs,18450,17938,2016
+Toronto Raptors,19826,17163,2016
+Utah Jazz,19305,17378,2016
+Washington Wizards,17693,17787,2016
+Atlanta Hawks,15959,17817,2017
+Boston Celtics,18553,18313,2017
+Charlotte Hornets,17333,17564,2017
+Chicago Bulls,21680,18033,2017
+Dallas Mavericks,19789,17519,2017
+Denver Nuggets,14770,17420,2017
+Detroit Pistons,15979,17700,2017
+Golden State Warriors,19596,19015,2017
+Indiana Pacers,16697,17848,2017
+Memphis Grizzlies,16520,17656,2017
+Milwaukee Bucks,15828,17928,2017
+Minnesota Timberwolves,14810,18102,2017
+New Orleans Pelicans,16173,18063,2017
+Oklahoma City Thunder,18203,18374,2017
+Orlando Magic,17753,17334,2017
+Philadelphia 76ers,17331,17209,2017
+Phoenix Suns,17284,17619,2017
+Portland Trail Blazers,19318,17556,2017
+Sacramento Kings,17608,17489,2017
+San Antonio Spurs,18423,18131,2017
+Toronto Raptors,19830,17926,2017
+Utah Jazz,19662,17212,2017
+Washington Wizards,17003,17949,2017
+Atlanta Hawks,14409,17801,2018
+Brooklyn Nets,15598,17685,2018
+Chicago Bulls,20776,18030,2018
+Detroit Pistons,17413,17959,2018
+Houston Rockets,17871,18369,2018
+Minnesota Timberwolves,17056,17851,2018
+New York Knicks,19332,18194,2018
+Orlando Magic,17915,17651,2018
+Phoenix Suns,16843,17611,2018
+Portland Trail Blazers,19398,17557,2018
+Atlanta Hawks,15377,17786,2019
+Brooklyn Nets,14941,18086,2019
+New York Knicks,19002,17566,2019
+Philadelphia 76ers,20453,17895,2019
+Portland Trail Blazers,19496,17951,2019
+Sacramento Kings,17097,17199,2019
