@@ -4,23 +4,29 @@ Collaborators: Michelle Hamilton, Paul Hardy, Jeremy Schoenberg, and Jarrod Will
 
 ## Hypothesis
 
-Is there a correlation between investment in an NBA team and their performance in their league?
+Is there a correlation between investment in an NBA team and performance in the league?
 
 ## Questions
 
-* Is there a correlation between the number of highly paid star players on a team and their regular season wins?
-* What contribution do high paying star players make towards fan attendance?
-* How is success of a sport team measured (plot wins)?
-What is the relationship between investment in a team and the number of wins by year?
-* Is there a correlation between the investment and the region in which the teams are in (Eastern Conference vs Western Conference)?
+* Is there a correlation between the number of highly paid players on a team and their regular season wins?
 
-## Possible Datasets
+* Do teams with high paid players impact fan attendance?
 
-<https://data.world/datadavis/nba-salaries>
+* What is the relationship between team valuation and the number of wins by year?
 
-<https://www.kaggle.com/nathanlauga/nba-games>
+## Data Analyzed
 
-<https://rapidapi.com/api-sports/api/api-nba>
+* Five years of Regular NBA Seasons (2015 - 2019)
+* All 30 NBA Teams
+* Players with salaries over 20 million
+
+## Attendance Analysis
+
+* A bar chart was used to compare game attendance to teams with high paid players (salary >20 million). For home game attendance, the margin decreased between teams with high paid players and those with out. However, road game attendance showed very little change in margin over the same five year period.
+
+* Using a line graph, the nubmer of teams with high paid players were compared to those with no high paid players. Over the five year time period, the teams with high paid players increased dramitically, which in turn made fewer teams with no high paid players.
+
+* The attendance by team average for all five seassons was analyzed in a box plot. Both home averages have similar inner quartile ranges, but the mean for teams with no high paid players was signicantly lower. Road game analysis showed very narrow quartile ranges. This seems to indicate that fans are less likely to go out of town to see their team play.
 
 ## Datasets We Used
 
