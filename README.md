@@ -44,9 +44,9 @@ over the past 5 years in terms of total wins. This chart revealed a wide range o
 
 * A bar chart was used to compare game attendance to teams with high paid players (salary >20 million). For home game attendance, the margin decreased between teams with high paid players and those with out. However, road game attendance showed very little change in margin over the same five year period.
 
-* Using a line graph, the number of teams with high paid players were compared to those with no high paid players. Over the five year time period, the teams with high paid players increased dramitically, which in turn made fewer teams with no high paid players.
+* Using a line graph, the number of teams with high paid players were compared to those with no high paid players. Over the five year time period, the teams with high paid players increased dramtically, which in turn made fewer teams with no high paid players.
 
-* The attendance by team average for all five seassons was analyzed in a box plot. Both home averages have similar inner quartile ranges, but the mean for teams with no high paid players was signicantly lower. Road game analysis showed very narrow quartile ranges. This seems to indicate that fans are less likely to go out of town to see their team play.
+* The attendance by team average for all five seasons was analyzed in a box plot. Both home averages have similar inner quartile ranges, but the mean for teams with no high paid players was significantly lower. Road game analysis showed very narrow quartile ranges. This seems to indicate that fans are less likely to go out of town to see their team play.
 
 ## Datasets We Used
 
