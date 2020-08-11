@@ -23,6 +23,11 @@ Is there a correlation between investment in an NBA team and performance in the 
 * Players with salaries over 20 million
 * Data of numbers of wins over five seasons (2015 -2019)
 
+## Valuation Analysis
+* Two bar charts that takes the total valuations of the top five and bottom five teams according to Forbes magazine. These charts reveal that none of the teams in the bottom five have a value of over $2 billion while no team in the top five has a value of under 2.5 billion. The chart also reveals that each of the top valued teams are located in U.S. cities with large populations. .
+
+* Two line graphs which compare the number of wins for the same top five and bottom five valued teams. Out of the five bottom valued teams, all posted losing seasons (wins under 41 games) at least once during the time period between 2014-2019. Out of the top five valued teams, only two teams had seasons with losing records(the Lakers and the Knicks). With that being said, the Knicks and the Lakers are the NBA's most valued teams at $4 billion and $3.5 billion respectively. This suggests that for the top valued NBA teams, there isn't a strong correlation between a team's wins and its market value. 
+
 ## Wins Analysis
 
 * A barchart of the total wins for each team was plotted to establish a clear comparison of how successful each team has been
