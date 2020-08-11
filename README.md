@@ -49,9 +49,15 @@ over the past 5 years in terms of total wins. This chart revealed a wide range o
 
 * A bar chart was used to compare game attendance to teams with high paid players (salary >20 million). For home game attendance, the margin decreased between teams with high paid players and those with out. However, road game attendance showed very little change in margin over the same five year period.
 
-* Using a line graph, the number of teams with high paid players were compared to those with no high paid players. Over the five year time period, the teams with high paid players increased dramitically, which in turn made fewer teams with no high paid players.
+* Using a line graph, the number of teams with high paid players were compared to those with no high paid players. Over the five year time period, the teams with high paid players increased dramtically, which in turn made fewer teams with no high paid players.
 
-* The attendance by team average for all five seassons was analyzed in a box plot. Both home averages have similar inner quartile ranges, but the mean for teams with no high paid players was signicantly lower. Road game analysis showed very narrow quartile ranges. This seems to indicate that fans are less likely to go out of town to see their team play.
+* The attendance by team average for all five seasons was analyzed in a box plot. Both home averages have similar inner quartile ranges, but the mean for teams with no high paid players was significantly lower. Road game analysis showed very narrow quartile ranges. This seems to indicate that fans are less likely to go out of town to see their team play.
+
+## Salary/Wins Analysis
+
+* A line graph was created to compare the average number of team wins with the number of times they paid a player more than 20 million dollars in the past 5 years. It was thought that as a team paid more players more money, that the ratio to wins would remain relatively constant. That wasn't the case. The 5 winningest teams had an average ratio of 9.7 while the five losingest teams had an average ratio of 15.6 which leads us to believe that a lower ratio will actually produce better win results.
+
+* A scatter plot was produced to see if there was a correlation between the average number of wins and the number of players paid over 20m. It appears that there is more correlation on the lower end of the graph but less farther along the wins column. The Pearson correlation coefficient is .46 which suggests a moderage correlation between the two data points.
 
 ## Datasets We Used
 
